@@ -3,7 +3,7 @@ export const SITE = {
   author: "Zephyr",
   profile: "https://github.com/zephyrcicd",
   desc: "A developer's field notes on continuous learning — Java, Go, TypeScript, AI, and more.",
-  title: "Zephyr CICD Log",
+  title: "Zephyr CI/CD Log",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
