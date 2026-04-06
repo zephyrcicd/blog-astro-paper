@@ -11,10 +11,9 @@ This blog is my personal dev log, a record of things I learn, debug, and figure 
 
 Posts here cover topics I encounter in day-to-day development:
 
-- **Java** — JVM internals, Spring ecosystem, best practices
-- **Go** — concurrency patterns, tooling, microservices
-- **TypeScript** — type system tricks, frontend and Node.js
-- **AI tools** — practical usage of LLMs, prompting, integrations
+- **Java** — my primary work language; JVM internals, Spring ecosystem, best practices
+- **Go & TypeScript** — languages I use and learn in personal projects
+- **AI tools** — LLMs are my main coding companion; notes on practical usage, prompting, and integrations
 - Anything else worth documenting
 
 ## Find me
