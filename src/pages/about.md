@@ -3,35 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm Zephyr — a developer who writes things down.
 
-![Astro Paper](public/astropaper-og.jpg)
+This blog is my personal dev log, a record of things I learn, debug, and figure out along the way. The name *CICD Log* isn't really about CI/CD pipelines — it's about continuous and incremental learning, shipping small improvements every day.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## What I write about
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Posts here cover topics I encounter in day-to-day development:
 
-## Features
+- **Java** — JVM internals, Spring ecosystem, best practices
+- **Go** — concurrency patterns, tooling, microservices
+- **TypeScript** — type system tricks, frontend and Node.js
+- **AI tools** — practical usage of LLMs, prompting, integrations
+- Anything else worth documenting
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Find me
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+- GitHub: [zephyrcicd](https://github.com/zephyrcicd)
+- Email: [zephyrcicd@gmail.com](mailto:zephyrcicd@gmail.com)

@@ -42,9 +42,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </a>
 
       <p>
-        This is my personal dev log — a record of things I learn, debug, and
-        figure out along the way. Posts cover Java, Go, TypeScript, AI tools,
-        and whatever else comes up in the course of building things.
+        A dev log of continuous learning. Notes on Java, Go, TypeScript, AI, and more. <LinkButton
+          class="underline decoration-dashed underline-offset-4 hover:text-accent"
+          href="/about"
+        >About me →</LinkButton>
       </p>
       {
         // only display if at least one social link is enabled
