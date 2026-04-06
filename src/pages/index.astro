@@ -46,15 +46,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         figure out along the way. Posts cover Java, Go, TypeScript, AI tools,
         and whatever else comes up in the course of building things.
       </p>
-      <p class="mt-2">
-        Browse the posts below, or find me on
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/zephyrcicd"
-        >
-          GitHub
-        </LinkButton>.
-      </p>
       {
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
